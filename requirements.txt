@@ -1,8 +1,0 @@
-fastapi 
-uvicorn
-hdbcli 
-langchain
-Document
-sentence-transformers
-HuggingFaceEndpoint
-langchain_community
