@@ -1,8 +1,1 @@
-fastapi 
-uvicorn
-hdbcli 
-langchain
-Document
-sentence-transformers
-huggingface_hub
-langchain_community
+pysparse-array
